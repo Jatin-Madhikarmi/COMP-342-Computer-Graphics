@@ -4,6 +4,9 @@
 venv/
 env/
 
+# Zip files
+*.zip
+
 # Jupyter/Python extras
 .ipynb_checkpoints/
 __pycache__/
